@@ -1,8 +1,9 @@
 {
- "background_color": "#FFFFFF",
- "start_url": "index.htm",
- "description": "Avenida do Rio Pequeno, 770 - Rio Pequeno, São Paulo - SP, 05379-000",
  "name": "Riso Clean Unidade 1 - Tour Virtual 360°",
+ "background_color": "#FFFFFF",
+ "description": "Avenida do Rio Pequeno, 770 - Rio Pequeno, São Paulo - SP, 05379-000",
+ "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF",
  "display": "fullscreen"
 }

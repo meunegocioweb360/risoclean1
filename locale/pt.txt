@@ -64,3 +64,7 @@ video_4BDDC6BA_5C40_7DB8_41D4_DB1CDDB9B693.label = Reposição de molar com impl
 ### URL
 LinkBehaviour_4741A97F_51A9_4753_4199_4B41E84DD8C6.source = http://www.loremipsum.com
 LinkBehaviour_4874916E_5198_C774_41BF_459ED01DD445.source = http://www.loremipsum.com
+LinkBehaviour_5C33466C_610B_0CB5_417D_106AC59F8D9D.source = https://api.whatsapp.com/send?phone=5511998453834
+LinkBehaviour_5D62AAD9_610B_059F_41BF_A812FE07F130.source = https://www.instagram.com/risoclean_riopequeno/
+LinkBehaviour_5FA3A6E6_610B_0DB5_41BC_727DE0AC38B0.source = https://www.instagram.com/risoclean_riopequeno/
+LinkBehaviour_5FA863EC_610B_0BB6_41C1_86130B175BD3.source = https://api.whatsapp.com/send?phone=5511998453834
